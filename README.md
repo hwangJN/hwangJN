@@ -1,8 +1,8 @@
 ## 💁‍♀️ Hwang Jina Github  
-안녕하세요! 주니어 개발자 황지나 입니다.
-저는 React와 React tool를 좋아하고, 늘 도전하고 성장하고 있습니다.
+안녕하세요! 주니어 개발자 황지나 입니다.<br>
+저는 React와 React Libarary를 좋아하고, 늘 도전하고 성장하고 있습니다.
 
-
+<br>
 ### 💻 Skill
 <div style="display:flex">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
