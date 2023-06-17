@@ -1,6 +1,6 @@
 ## 💁‍♀️ Hwang Jina Github  
 안녕하세요! 주니어 개발자 황지나 입니다.<br>
-저는 React와 React Libarary를 좋아하고, 늘 도전하고 성장하고 있습니다.
+React를 다루는 것을 좋아하며, 늘 도전하고 성장하고 있습니다.
 <br/>
 
 ### 💻 Skill
