@@ -6,7 +6,7 @@ React를 다루는 것을 좋아하며, 늘 도전하고 성장하고 있습니�
 ---
 
 ## 🌟 Experience
-- 현대자동차 Softeer Boot Camp 2th `2023.07 ~ 2023.08`
+- 현대자동차 Softeer Boot Camp 2기 `2023.07 ~ 2023.08`
 - 세종대학교 지능기전공학부 스마트기기공학 전공 `2019.03 ~ `
 - 나눔과 기술  창의설계온라인 경진대회 [함께서기](https://github.com/hwangJN/Youth-Project) 특별상 `2022.10 ~ 2022.11`
 
