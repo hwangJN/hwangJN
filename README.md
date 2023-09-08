@@ -1,4 +1,4 @@
-## 💁‍♀️ Hwang Jina Github  
+# 💁‍♀️ Hwang Jina Github  
 안녕하세요! 주니어 개발자 황지나 입니다.<br>
 React를 다루는 것을 좋아하며, 늘 도전하고 성장하고 있습니다.
 <br/>
