@@ -11,8 +11,16 @@ React를 다루는 것을 좋아하며, 늘 도전하고 성장하고 있습니�
 - 나눔과 기술  창의설계온라인 경진대회 [함께서기](https://github.com/hwangJN/Youth-Project) 특별상 `2022.10 ~ 2022.11`
 
 ---
+## 📃 Project
+|기간|프로젝트명|설명|
+|------|---|---|
+|2023.03 ~ ing |[BANANA](https://github.com/hyeonjy/Banana)|사용하지 않지만 가치있는 패션 제품을 나눔하는 웹 커뮤니티|
+|2023.04|[LEMON PLAYER](https://github.com/hwangJN/lemon_player)|뮤직 플랫폼|
+|2022.10 ~ 2022.11 |[함께서기](https://github.com/hwangJN/Youth-Project)|보호종료청년의 자립을 돕는 웹 커뮤니티|
 
-  
+
+
+---
 ### 💻 Stack
 <div style="display:flex">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
