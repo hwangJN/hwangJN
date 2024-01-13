@@ -1,17 +1,18 @@
 # 💁‍♀️ Hwang Jina Github  
 안녕하세요! 주니어 개발자 황지나 입니다.<br>
-React를 다루는 것을 좋아하며, 늘 도전하고 성장하고 있습니다.
+늘 도전하고 성장하고 있습니다.
 <br/>
 
 ---
 
 ## 🌟 Experience
+- FinTech StartUp Service Developer `2023.11.08 ~ `
 - 현대자동차 Softeer Boot Camp 2기 `2023.07 ~ 2023.08`
 - 세종대학교 지능기전공학부 스마트기기공학 전공 `2019.03 ~ `
 - 나눔과 기술  창의설계온라인 경진대회 [함께서기](https://github.com/hwangJN/Youth-Project) 특별상 `2022.10 ~ 2022.11`
 
 ---
-## 📃 Project
+## 📃 Toy Project
 |기간|프로젝트명|설명|
 |------|---|---|
 |2023.08|[내차만들기](https://github.com/hwangJN/A4-FourEver)|기존 현대닷컴 내차만들기 페이지 개선|
@@ -29,6 +30,7 @@ React를 다루는 것을 좋아하며, 늘 도전하고 성장하고 있습니�
   <img alt="html5" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 <div style="display:flex">
+  <img alt="nextdotjs" src="https://img.shields.io/badge/nextdotjs-00000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
   <img alt="sass" src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="nodedotjs" src="https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=black"/>
