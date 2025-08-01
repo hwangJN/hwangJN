@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Experience
-- FinTech StartUp Service Developer `2023.11.08 ~ `
+- FinTech StartUp Service Developer `2023.11 ~ `
 - 현대자동차 Softeer Boot Camp 2기 `2023.07 ~ 2023.08`
 - 세종대학교 지능기전공학부 스마트기기공학 전공 `2019.03 ~ `
 - 나눔과 기술  창의설계온라인 경진대회 [함께서기](https://github.com/hwangJN/Youth-Project) 특별상 `2022.10 ~ 2022.11`
@@ -22,20 +22,7 @@
 
 
 
----
-### 💻 Stack
-<div style="display:flex">
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="html5" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="html5" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-<div style="display:flex">
-  <img alt="nextdotjs" src="https://img.shields.io/badge/nextdotjs-00000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
-  <img alt="sass" src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
-  <img alt="nodedotjs" src="https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=black"/>
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=black"/> 
-</div>
+
 
 <!--
 **hwangJN/hwangJN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
