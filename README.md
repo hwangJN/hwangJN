@@ -1,7 +1,5 @@
-# 💁‍♀️ Hwang Jina Github  
-안녕하세요! 주니어 개발자 황지나 입니다.<br>
-늘 도전하고 성장하고 있습니다.
-<br/>
+#  Hwang Jina Github  
+안녕하세요! 개발자 황지나 입니다<br>
 
 ---
 
