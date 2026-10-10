@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240" role="img" aria-label="jina's github">
+  <title>jina's github</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .typing { animation: type 1.6s steps(13) 0.8s forwards; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes type { to { transform: translateX(260px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .typing { animation: none; transform: translateX(260px); }
+      .cursor { animation: none; }
+    }
+  </style>
+
+  <clipPath id="window">
+    <rect width="800" height="240" rx="14"/>
+  </clipPath>
+
+  <g clip-path="url(#window)">
+    <rect width="800" height="240" fill="#1f1f1d"/>
+    <rect width="800" height="40" fill="#33332f"/>
+    <circle cx="26" cy="20" r="6.5" fill="#e5534b"/>
+    <circle cx="48" cy="20" r="6.5" fill="#e0a030"/>
+    <circle cx="70" cy="20" r="6.5" fill="#57ab5a"/>
+
+    <text class="mono" x="48" y="112" font-size="20" fill="#8b8a83">$ whoami</text>
+
+    <!-- 이름을 바꾸면: 글자 수 × 20 을 textLength, translateX(…px), steps(…) 에 똑같이 반영 -->
+    <text class="mono" x="48" y="168" font-size="34" fill="#f1efe8" textLength="260" lengthAdjust="spacing">jina's github</text>
+
+    <g class="typing">
+      <rect x="48" y="132" width="300" height="48" fill="#1f1f1d"/>
+      <rect class="cursor" x="54" y="138" width="16" height="36" fill="#5dcaa5"/>
+    </g>
+  </g>
+</svg>
